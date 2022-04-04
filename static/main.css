@@ -1,0 +1,60 @@
+h2 {
+    color: darkgrey;
+    text-align: center;
+    font-size:  50px;
+
+
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+main {
+    width:60vw;
+}
+
+body{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkslategrey;
+    padding: 20px#
+    
+
+}
+
+p{ 
+    color: white;
+    font-size: 20px;
+
+}
+
+label{
+    color:white
+}
+
+input[type=text]{
+    
+    width: 100%;
+    padding: 8px 8px;
+    margin: 10px 0px;
+
+
+
+
+}
+
+input[type=submit]{
+    width: 100%;
+    background-color: rgb(35, 172, 149);
+    color: white;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 6px;
+
+}
+
