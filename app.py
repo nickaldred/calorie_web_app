@@ -56,4 +56,4 @@ app.add_url_rule('/', view_func=HomePage.as_view('home_page'))
 app.add_url_rule('/calorie_form_page', 
 view_func=CalorieFormPage.as_view('calorie_form_page'))
 
-app.run(debug=True)
+#app.run(debug=True)
